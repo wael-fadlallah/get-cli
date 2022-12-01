@@ -9,4 +9,4 @@ get user wael-fadlallah
 
 Output: 
 
-![Terminal output] (screenshot.png)
+![Terminal output] (./screenshot.png)
