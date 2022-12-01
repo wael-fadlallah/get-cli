@@ -9,4 +9,4 @@ get user wael-fadlallah
 
 Output: 
 
-![Terminal output] (./screenshot.png)
+![Terminal output] (https://github.com/wael-fadlallah/get-cli/blob/main/screenshot.png)
