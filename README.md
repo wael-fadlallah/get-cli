@@ -2,4 +2,11 @@
 A ~~useless~~ cool CLI to get github users details
 
 Simply type 
-`get user wael-fadlallah`
+
+```shell
+get user wael-fadlallah
+```
+
+Output: 
+
+![Terminal output] (screenshot.png)
